@@ -1,5 +1,5 @@
  <div>
- Hi, I'm petkovic. It's still being updated here, but feel free to browse my repositories and check out the projects I've been involved in.<img align="center" height="50em"src="https://media.giphy.com/media/rtRflhLVzbNWU/giphy.gif" 
+ Hi, I'm petkovic. It's still being updated here, but feel free to browse my repositories and check out the projects I've been involved in.<img align="center" height="50em"src="https://giphy.com/embed/rtRflhLVzbNWU.gif" 
 </div> 
 <img height="50em" src="https://media.giphy.com/media/OsxEuns6kqXIY/giphy.gif"/>
 
