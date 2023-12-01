@@ -1,16 +1,16 @@
  <div>
- Hi, I'm petkovic. It's still being updated here, but feel free to browse my repositories and check out the projects I've been involved in.<!--<img align="center" height="50em"src="https://media.giphy.com/media/rtRflhLVzbNWU/giphy.gif" 
+<!--<img align="center" height="50em"src="https://media.giphy.com/media/rtRflhLVzbNWU/giphy.gif" 
 </div> 
 <!--<img height="50em" src="https://media.giphy.com/media/OsxEuns6kqXIY/giphy.gif"/> -->
 
   
 ##
   
-<div>
+<!--<div>
 <a href="https://github.com/Petinho29">
   <img  width="50%" src = "https://github-readme-stats.vercel.app/api?username=Petinho29&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide=stars,issues&"/>
  <img  width="50%" src ="https://github-readme-stats.vercel.app/api/top-langs?username=Petinho29&theme=synthwave&langs_count=10&layout=default"/>
-</div>
+</div> -->
   
 
 
